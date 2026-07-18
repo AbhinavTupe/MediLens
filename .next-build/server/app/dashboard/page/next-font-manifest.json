@@ -1,0 +1,11 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/src/app/dashboard/page": [
+      "static/media/Sora_Variable-s.p.19jzllqzq-o4u.ttf",
+      "static/media/Inter_Variable-s.p.2la4dbfrngu72.ttf"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}

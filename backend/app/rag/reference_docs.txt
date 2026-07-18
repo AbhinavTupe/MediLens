@@ -1,0 +1,14 @@
+Anemia overview:
+Anemia is often identified by low hemoglobin together with low ferritin, abnormal MCV, abnormal RDW, or low B12. Iron deficiency, blood loss, chronic inflammation, and vitamin deficiency are common causes. Patients often benefit from iron-rich meals, vitamin C pairing, and follow-up testing when symptoms persist.
+
+Diabetes overview:
+Diabetes risk is commonly reflected by elevated fasting glucose or HbA1c. Triglycerides, HDL, LDL, and kidney markers can add useful metabolic context. Useful lifestyle changes often include fiber-rich meals, reduced sugary drinks, regular activity, and timely repeat testing.
+
+Kidney disease overview:
+Kidney function assessment focuses on creatinine, urea, eGFR, potassium, sodium, and chloride. Rising creatinine and falling eGFR are more meaningful together than either value alone. Hydration guidance, blood pressure control, medication review, and nephrology follow-up may be appropriate.
+
+Liver enzymes overview:
+ALT, AST, ALP, and bilirubin help assess liver and bile-duct stress. Patterns matter more than a single value, and medications, alcohol, fatty liver, and biliary obstruction are all possible contributors. Persistent abnormalities should be reviewed with a clinician.
+
+Electrolytes overview:
+Sodium, potassium, and chloride reflect hydration status, kidney handling, and acid-base balance. Severe changes can affect heart rhythm, muscle function, and mental status. Rapid correction should only be done under medical supervision.
