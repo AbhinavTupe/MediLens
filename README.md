@@ -582,6 +582,6 @@ This project is released under the MIT License.
 
 # Author
 
-**Tanisha Khairnar**
+**Abhinav Tupe**
 
-📧 Email: **khairnar.tanisha@gmail.com**
+📧 Email: **abhinavtupe1610@gmail.com**
